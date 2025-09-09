@@ -13,6 +13,8 @@
 
 ## 🚀 المعاينة
 بعد ما فعلت GitHub Pages، تقدرون تشوفون الموقع من هنا:  
-[اضغطي هنا](https://batoolalshmraniweb.github.io/nike-landing-page/)
+[اضغطي هنا](https://BatoolAlshmraniweb
+.github.io/nike-landing-page)
+
 ## ℹ️ ملاحظات
 هذا المشروع للتعلم فقط ✨
